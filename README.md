@@ -2,7 +2,7 @@
 
 This is the project you get when you run `gridsome create new-project`.
 
-This repo was created to illustrate an issue as described in [this]() Issue on
+This repo was created to illustrate an issue as described in [this](https://github.com/gridsome/gridsome/issues/1136) Issue on
 GitHub.
 
 ### Instructions for Reproduction
