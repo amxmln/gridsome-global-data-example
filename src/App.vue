@@ -1,10 +1,5 @@
 <template lang="html">
   <div class="main-wrapper">
-    <nav :class="{ dark: $root.pageDark }">
-      <g-link class="nav__link" to="/">Home</g-link>
-      <g-link class="nav__link" to="/about/">About</g-link>
-      <g-link class="nav__link" to="/example/">Example</g-link>
-    </nav>
     <router-view></router-view>
   </div>
 </template>
